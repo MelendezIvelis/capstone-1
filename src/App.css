@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .navbar a.active {
+    background-color: #666;
+    color: white;
+  }
+

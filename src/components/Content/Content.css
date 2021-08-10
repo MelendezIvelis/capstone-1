@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    flex: 1 1 auto;
+    background-color: azure;
+  }
+
+
+ /* .content {
+  background-image: url(../public/assests/images/banker.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 29%;
+  background-color: azure;
+} */
+
